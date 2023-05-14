@@ -1,10 +1,22 @@
+## Install dependencies
+
+### frontend
+```
+npm install
+```
+### backend
+```
+cd express_app
+npm install
+```
+
 ## Start backend
 ```
 cd express_app
 node index
 ```
 
-## start frontend
+## Start frontend
 ```
 npm start
 ```
